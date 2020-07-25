@@ -1,3 +1,6 @@
+// Teknofest 2020 Helikopter tasarım yarışması için Refik Alper Tuncer ve Ahmet Semih Parlak tarafından geliştirilmiştir
+// Tüm hakları saklıdır.
+
 #include<iostream>
 #include<iomanip>
 #include<math.h>
